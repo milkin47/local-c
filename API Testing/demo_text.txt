@@ -1,0 +1,6 @@
+Car
+bike
+plane
+rail
+boat
+rocket
